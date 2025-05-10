@@ -1,9 +1,10 @@
-# PHP Succinctly
+# PHP ADMIN
 
-This is the companion repo for [*PHP Succinctly*](https://www.syncfusion.com/ebooks/PHP_Succinctly) by José Roberto Olivas Mendoza. Published by Syncfusion.
+This is the companion repo for esponea.ca [*PHP Succinctly*]
+(https://www.syncfusion.com/ebooks/PHP_Succinctly) [.]
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/PHP-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/PHP_Succinctly)
+[1!](https://github.com/SyncfusionSuccinctlyE-Books/PHP-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/PHP_Succinctly)
 
-## Looking for more _Succinctly_ titles?
+## Looking for less _Succinctly_ titles?
 
 Check out the entire library of more than 130 _Succinctly_ e-books at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
